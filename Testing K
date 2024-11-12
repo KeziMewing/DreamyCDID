@@ -1,5 +1,4 @@
-    -- Call Library
-    local GUI = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local GUI = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
     -- Main Frame
     local Window = GUI:CreateWindow({
