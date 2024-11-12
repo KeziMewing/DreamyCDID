@@ -1,5 +1,3 @@
-local CurrentVersion = "Kezi Hub V1"
-
     -- Call Library
     local GUI = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
