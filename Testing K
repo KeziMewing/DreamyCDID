@@ -1,7 +1,7 @@
-local GUI = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
     -- Main Frame
-    local Window = GUI:CreateWindow({
+    local Window = Rayfield:CreateWindow({
         Name = "CurrentVersion",
         LoadingTitle = "KeziHub Suite",
         LoadingSubtitle = "by KezHub Team",
